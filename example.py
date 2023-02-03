@@ -1,2 +1,2 @@
-for num in range(8)
+for num in range(10)
   print('power')
