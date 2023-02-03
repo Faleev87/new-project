@@ -3,4 +3,6 @@ for sym in 'power':
   while sym == 'p':
     print('u')
     break
+for num in range(10)
+  print('power')
 
