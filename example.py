@@ -1,2 +1,6 @@
-for num in range(8)
-  print('power')
+for sym in 'power':
+  print('shell')
+  while sym == 'p':
+    print('u')
+    break
+
