@@ -1,5 +1,5 @@
 for sym in 'power':
-  print('shell')
+  print('inteleger')
   while sym == 'p':
     print('u')
     break
