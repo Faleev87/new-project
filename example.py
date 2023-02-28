@@ -1,6 +1,6 @@
 for sym in 'power':
   print('shell')
-  while sym == 'p':
+  while sym == 'i':
     print('u')
     break
 for num in range(9)
